@@ -1,8 +1,12 @@
-fcitx5-keyman (1.0.3-1) UNRELEASED; urgency=medium
+fcitx5-keyman (1.0.3-1deepin0) unstable; urgency=medium
 
+  [ Debian Input Method Team ]
   * update
 
- -- Debian Input Method Team <debian-input-method@lists.debian.org>  Sun, 24 Apr 2022 01:41:13 -0400
+  [ Tianyu Chen ]
+  * No source change upload against GCC 12.
+
+ -- Tianyu Chen <sweetyfish@deepin.org>  Thu, 19 Sep 2024 22:46:25 +0800
 
 fcitx5-keyman (1.0.3-1) unstable; urgency=medium
 
